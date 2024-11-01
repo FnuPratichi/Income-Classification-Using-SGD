@@ -41,6 +41,6 @@
 - **Final Results**: Achieved a test accuracy of **75.17%**, validating the effectiveness of the model.
 
 ## Conclusion
-- This project was done as a homework of my ML Course and successfully demonstrates the use of Logistic Regression and Stochastic Gradient Descent for binary classification of income levels.
+- This project successfully demonstrates the use of Logistic Regression and Stochastic Gradient Descent for binary classification of income levels.
 - Through thorough data preprocessing, effective feature engineering, and careful hyperparameter tuning, the model is able to predict income with a commendable accuracy of 75.17%.
 
